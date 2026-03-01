@@ -1,5 +1,6 @@
 [build]
   publish = "."
+  # Static site – no build command. In Netlify UI set Production branch = main.
 
 [[headers]]
   for = "/*"
