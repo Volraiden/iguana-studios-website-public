@@ -1,5 +1,6 @@
 .DS_Store
 .netlify
 node_modules
-video/
+# Only exclude large video; showreel-iguana-studios-1.mp4 is committed for deploy
+video/showreel-iguana-studios.mp4
 
